@@ -1,0 +1,119 @@
+body {
+    background: #eee;
+    margin: 0;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    line-height: 25px;
+    color: #4c5258;
+}
+
+/* this is the hero section code */
+.hero-title {
+    font-family: 'Sacramento', cursive;
+    font-size: 100px;
+    color: #4c5258;
+    padding-top: 10%;
+    margin: 0 auto;
+}
+
+h3 {
+    font-weight: normal;
+    font-size: 40px;
+    color: #FFB085;
+    margin-top: 5%;
+}
+
+.top-container {
+    background: #e4f9f5;
+    height: 100%;
+    padding: 3% 0;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 40px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 200px;
+}
+
+/* this is the profile section code */
+.profile-img {
+    width: 180px;
+    height: 180px;
+    margin-top: 10%;
+}
+
+h2 {
+    margin-bottom: 2%;
+    font-size: 35px;
+    color: #FFB085;
+}
+
+.subtitle {
+    padding: 0 30%;
+}
+
+/* this is the skills section code */
+.skills {
+    margin-top: 10%;
+}
+.skill-row {
+    width: 40%;
+    text-align: left;
+    margin-bottom: 100px;
+    margin-left: 30%;
+}
+.skills-img {
+    width: 20%;
+}
+.skill-1 {
+    float: left;
+    margin-right: 5%;
+}
+.skill-2 {
+    float: right;
+}
+
+
+/* this is the contact section code */
+.contact-me {
+    padding: 5% 0;
+}
+
+.button {
+    text-decoration: none;
+    background: teal;
+    color: white;
+    padding: 20px 30px;
+}
+.button:hover {
+    background: #000000;
+    /* color:tomato; */
+}
+
+.contact-text {
+    margin-bottom: 3%;
+
+}
+.contact-subtitle {
+    font-size: 20px;
+}
+
+
+/* this is the footer section code */
+.footer {
+    padding: 3% 0;
+    background: rgb(26, 167, 167);
+    color: #ffffff;
+}
+.footer-icon {
+     color: #fff;
+ }
+.footer-icon:hover {
+    color: #000;
+}
